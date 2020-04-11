@@ -1,0 +1,108 @@
+GET http://api.openweathermap.org/data/2.5/onecall?lat=30.489772&lon=-99.771335&lang=ru&units=metric&appid=dd46ed86405a20093964a210953d45ff
+
+<> 2020-04-11T020705.200.json
+
+###
+
+GET http://api.openweathermap.org/data/2.5/onecall?lat=30.489772&lon=-99.771335&lang=ru&units=metric&appid=dd46ed86405a20093964a210953d45ff
+
+<> 2020-04-11T124125.200.json
+
+###
+
+GET https://restcountries.eu/rest/v2/capital/tallinn
+
+<> 2020-04-10T034459.200.json
+
+###
+
+GET https://api.openweathermap.org/data/2.5/onecall?lat=-20.0&lon=30.0&units=metric&appid=dd46ed86405a20093964a210953d45ff
+
+<> 2020-04-10T033743.200.json
+
+###
+
+GET https://restcountries.eu/rest/v2/all?fields=name;capital;latlng
+
+<> 2020-04-10T033715.200.json
+
+###
+
+GET https://api.openweathermap.org/data/2.5/onecall?lat=-16.0&lon=167.07&units=metric&appid=dd46ed86405a20093964a210953d45ff
+
+<> 2020-04-10T033641.200.json
+
+###
+
+GET https://restcountries.eu/rest/v2/all?fields=name;capital;latlng;translations-ru
+
+<> 2020-04-10T033556.200.json
+
+###
+
+GET https://restcountries.eu/rest/v2/all?fields=name;capital;latlng;translations
+
+<> 2020-04-10T033539.200.json
+
+###
+
+GET https://restcountries.eu/rest/v2/all?fields=name;capital;currencies;latlng
+
+<> 2020-04-10T033326.200.json
+
+###
+
+GET https://restcountries.eu/rest/v2/all?fields=name;capital;currencies
+
+<> 2020-04-10T033250.200.json
+
+###
+
+GET http://api.openweathermap.org/data/2.5/onecall?q=Canberra,AU&lang=ru&units=metric&appid=dd46ed86405a20093964a210953d45ff
+
+<> 2020-04-10T033101.400.json
+
+###
+
+GET http://api.openweathermap.org/data/2.5/weather?q=Canberra,AU&units=metric&lang=ru&appid=dd46ed86405a20093964a210953d45ff
+
+<> 2020-04-10T032239.200.json
+
+###
+
+GET http://api.openweathermap.org/data/2.5/weather?q=Canberra,AU&units=metric&appid=dd46ed86405a20093964a210953d45ff
+
+<> 2020-04-10T032225.200.json
+
+###
+
+GET http://api.openweathermap.org/data/2.5/weather?q=Canberra,AU&appid=dd46ed86405a20093964a210953d45ff
+
+<> 2020-04-10T032120.200.json
+
+###
+
+GET http://api.openweathermap.org/data/2.5/weather?q=uk&appid=dd46ed86405a20093964a210953d45ff
+
+<> 2020-04-10T031918.404.json
+
+###
+
+GET http://api.openweathermap.org/data/2.5/onecall?lat=30.489772&lon=-99.771335&lang=ru&units=metric&appid=dd46ed86405a20093964a210953d45ff
+
+<> 2020-04-10T020109.200.json
+
+###
+
+GET https://api.openweathermap.org/data/2.5/onecall?lat=51.5085&lon=-0.1257&units=metric&appid=dd46ed86405a20093964a210953d45ff
+
+<> 2020-04-10T114511.200.json
+
+###
+
+GET https://api.openweathermap.org/data/2.5/onecall?lat=51.5085&lon=-0.1257&appid=dd46ed86405a20093964a210953d45ff
+
+<> 2020-04-10T105224.200.json
+
+###
+
